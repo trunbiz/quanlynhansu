@@ -33,7 +33,7 @@
 
                                     labels: {
                                         fontColor: '#71748d',
-                                        fontFamily: 'Circular Std Book',
+                                        fontFamily: 'Times New Roman',
                                         fontSize: 14,
                                     }
                                 },
@@ -42,14 +42,14 @@
                                     xAxes: [{
                                         ticks: {
                                             fontSize: 14,
-                                            fontFamily: 'Circular Std Book',
+                                            fontFamily: 'Times New Roman',
                                             fontColor: '#71748d',
                                         }
                                     }],
                                     yAxes: [{
                                         ticks: {
                                             fontSize: 14,
-                                            fontFamily: 'Circular Std Book',
+                                            fontFamily: 'Times New Roman',
                                             fontColor: '#71748d',
                                         }
                                     }]
@@ -94,7 +94,7 @@
 
                         labels: {
                             fontColor: '#71748d',
-                            fontFamily: 'Circular Std Book',
+                            fontFamily: 'Times New Roman',
                             fontSize: 14,
                         }
                     },
@@ -103,14 +103,14 @@
                         xAxes: [{
                             ticks: {
                                 fontSize: 14,
-                                fontFamily: 'Circular Std Book',
+                                fontFamily: 'Times New Roman',
                                 fontColor: '#71748d',
                             }
                         }],
                         yAxes: [{
                             ticks: {
                                 fontSize: 14,
-                                fontFamily: 'Circular Std Book',
+                                fontFamily: 'Times New Roman',
                                 fontColor: '#71748d',
                             }
                         }]
@@ -149,7 +149,7 @@
 
                         labels: {
                             fontColor: '#71748d',
-                            fontFamily: 'Circular Std Book',
+                            fontFamily: 'Times New Roman',
                             fontSize: 14,
                         }
                     },
@@ -188,7 +188,7 @@
 
                         labels: {
                             fontColor: '#71748d',
-                            fontFamily: 'Circular Std Book',
+                            fontFamily: 'Times New Roman',
                             fontSize: 14,
                         }
                     },
@@ -225,7 +225,7 @@
 
                         labels: {
                             fontColor: '#71748d',
-                            fontFamily: 'Circular Std Book',
+                            fontFamily: 'Times New Roman',
                             fontSize: 14,
                         }
                     },
@@ -263,7 +263,7 @@
 
                         labels: {
                             fontColor: '#71748d',
-                            fontFamily: 'Circular Std Book',
+                            fontFamily: 'Times New Roman',
                             fontSize: 14,
                         }
                     },
